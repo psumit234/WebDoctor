@@ -6,7 +6,7 @@ Doctor-Patient Management System
 - Spring Boot + Spring Data JPA
 - HTML, CSS, Bootstrap
 
-- Full code walkthrough coming soon.
+
 
 ## Steps to test out the project:-
 
@@ -15,4 +15,4 @@ Doctor-Patient Management System
 3. Run the spring boot application in STS/Eclipse by right clicking > Run as Spring Boot application.
 4. Done :)
 
-## Image showcase (coming soon)
+
