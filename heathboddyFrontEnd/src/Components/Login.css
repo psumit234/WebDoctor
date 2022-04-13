@@ -1,0 +1,22 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+  }
+  
+  @media (min-width: 1025px) {
+    .h-custom-2 {
+      height: 100%;
+    }
+  }
+  #id12{
+      margin-top: 10%;
+  }
+  .bg-image{
+      background-image: url(/public/images/draw2.webp);
+      background-size: cover;
+      background-position: center;
+      margin-bottom: 100px;
+  }
